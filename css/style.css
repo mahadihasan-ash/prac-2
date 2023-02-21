@@ -1,0 +1,17 @@
+.language{
+    border: 5px outset maroon;
+    background-color: lightcyan;
+    
+}
+blockquote{
+    border:5px;
+    background-color: aqua;
+    text-align: center;
+}
+body{
+    background-color:mediumaquamarine;
+}
+table ,tr,th,td{
+    border: 3px solid maroon;
+
+}
